@@ -1,0 +1,12 @@
+Student Info
+
+NAME: ABRAHAM A/L RAVICHANDRAN
+
+MATRIC NO: 271376
+
+INTRODUCTION
+
+From this assignment I learn how to apply for loop , while loop and if statement to complete my assignment. 
+This assignment is making a car loan calculator to compute the amount of monthly repayment and generate principal , interest and balance loan repayment table, by year . 
+Before we start coding ,we had to make a clear pseudocode and flow chart, so  it can make our work easier. By using while loop, I can limit the input and keep looping until me or someone enter the proper amount for calculate the monthly repayment. 
+We just have to enter the car price , down payment amount , car loan period and loan interest rate , and then you can easily get the monthly repayment and the whole repayment table.
